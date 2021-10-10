@@ -1,1 +1,16 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Yewon Lim
+description: Resume and tech blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://three0-s.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Yewon Lim
+user_description: I'm a student major in Mechanical Engineering in Yonsei Univ., Seoul. I'm into Machin Learning, especially applying ML techinques into the robotics. 
+user_title: Bachelor Student
+email: ga06033@yonsei.ac.kr
+# twitter_username: lorem_ipsum
+github_username:  three0-s
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
